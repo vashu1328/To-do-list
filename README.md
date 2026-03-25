@@ -18,15 +18,7 @@ The project helps users manage daily tasks by adding, removing, and organizing i
 - CSS3
 - JavaScript
 
-## Project Structure
-
-To-do-list/
-│── index.html  
-│── style.css  
-│── script.js  
-│── README.md  
-
-## 🎯 Purpose of Project
+## Purpose of Project
 
 This project is created for practicing JavaScript DOM manipulation and frontend development.  
 It is useful for beginners who want to learn basic web development.
